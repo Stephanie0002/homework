@@ -24,6 +24,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="8.2"
+
+            app:layout_constraintLeft_toRightOf="@+id/tv_1"
             android:gravity="center"
             android:text="联系人"
             android:textSize="15sp"
@@ -40,7 +42,8 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_margin="11dp"
-            android:src="@mipmap/m1"/>
+            android:src="@mipmap/m1"
+            />
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imv_2"

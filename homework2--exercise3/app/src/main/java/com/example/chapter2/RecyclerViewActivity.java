@@ -42,7 +42,7 @@ public class RecyclerViewActivity extends AppCompatActivity implements MyAdapter
                 //创建意图对象
                 Intent intent = new Intent(RecyclerViewActivity.this, GetResultActivity.class);
                 //设置传递键值对
-                intent.putExtra("data","消息");
+                intent.putExtra("data","粉丝");
                 //激活意图
                 startActivity(intent);
             }
