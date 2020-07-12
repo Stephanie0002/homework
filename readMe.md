@@ -7,3 +7,7 @@
 ### Homework3是2020.7.8的作业（选做了练习3）
 
 ### Homework4是2020.7.9的作业（时区跟随手机 and 选做了数字）
+
+### Homework5是2020.7.10的作业
+
+##### （get与post的区别的回答在Homework5/get与post的区别.md中）
